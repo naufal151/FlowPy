@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 #### Simulation inputs
-rowpts=201
-colpts=51
+rowpts=257
+colpts=257
 length=5
 breadth=1
 
